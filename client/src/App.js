@@ -1,11 +1,11 @@
 // src/App.js
 import React from 'react';
-import TodoApp from './TodoApp';
+import Todos from './Todos';
 
 function App() {
   return (
     <div className="App">
-      <TodoApp />
+      <Todos />
     </div>
   );
 }
